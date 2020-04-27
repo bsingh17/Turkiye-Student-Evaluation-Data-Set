@@ -76,3 +76,6 @@ Q1-Q28 are all Likert-type, meaning that the values are taken from {1,2,3,4,5}
 In the above problem statement we have used K-Means Clustering Algorithm.
 
 K means clustering algorithm is a very common unsupervised learning algorithm. This algorithm clusters n objects into k clusters, where each object belongs to a cluster with the nearest mean.
+
+## Observation:-
+After applying the clustering algorithm we observe 3 different types of clusters based on the data. Which signifies that there are three different categories of student.
