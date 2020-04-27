@@ -71,3 +71,6 @@ Q27: The Instructor provided solutions to exams and discussed them with students
 Q28: The Instructor treated all students in a right and objective manner.
 
 Q1-Q28 are all Likert-type, meaning that the values are taken from {1,2,3,4,5}
+
+## Clustering Algorithm Used:-
+In the above problem statement we have used K-Means Clustering Algorithm.
