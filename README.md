@@ -5,7 +5,9 @@ The dataset has been taken from: http://archive.ics.uci.edu/ml/datasets/Turkiye+
 
 ## Attribute Information :-
 instr: Instructor's identifier; values taken from {1,2,3}
+
 class: Course code (descriptor); values taken from {1-13}
+
 repeat: Number of times the student is taking this course; values taken from {0,1,2,3,...}
 attendance: Code of the level of attendance; values from {0, 1, 2, 3, 4}
 difficulty: Level of difficulty of the course as perceived by the student; values taken from {1,2,3,4,5}
